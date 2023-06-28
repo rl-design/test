@@ -1,0 +1,44 @@
+.navigation-b {
+  background-color: #ffffff;
+  height: 70px;
+  position: relative;
+  width: 1680px;
+}
+
+.navigation-b .web-logo {
+  height: 24px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 200px;
+}
+
+.navigation-b .frame {
+  align-items: flex-start;
+  display: flex;
+  gap: 40px;
+  left: 993px;
+  position: absolute;
+  top: 25px;
+  width: fit-content;
+}
+
+.navigation-b .text-wrapper {
+  color: #232323;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.navigation-b .button-instance {
+  left: 1406px !important;
+  position: absolute !important;
+  top: 15px !important;
+}

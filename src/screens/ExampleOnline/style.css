@@ -1,0 +1,584 @@
+.example-online {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.example-online .div {
+  background-color: #ffffff;
+  border: 1px none;
+  height: 3882px;
+  position: relative;
+  width: 1680px;
+}
+
+.example-online .navigation-b-instance {
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.example-online .workshop-content {
+  align-items: flex-start;
+  background-color: #ffffff;
+  display: flex;
+  gap: 10px;
+  left: 0;
+  overflow-y: scroll;
+  padding: 128px 70px;
+  position: absolute;
+  top: 70px;
+  width: fit-content;
+}
+
+.example-online .frame-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  overflow-y: scroll;
+  position: relative;
+  width: fit-content;
+}
+
+.example-online .p {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  letter-spacing: -0.36px;
+  line-height: 36px;
+  margin-right: -20px;
+  position: relative;
+  width: 300px;
+}
+
+.example-online .rectangle-2 {
+  background-color: #00000080;
+  height: 1px;
+  margin-right: -20px;
+  min-width: 300px;
+  position: relative;
+}
+
+.example-online .content-entry {
+  background-color: #ffffff;
+  height: 40px;
+  margin-right: -20px;
+  min-width: 300px;
+  position: relative;
+}
+
+.example-online .text-wrapper-2 {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  position: absolute;
+  top: 4px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.example-online .div-wrapper {
+  height: 40px;
+  margin-right: -20px;
+  min-width: 300px;
+  position: relative;
+}
+
+.example-online .p-wrapper {
+  align-items: flex-start;
+  background-color: #f2f2f2;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.example-online .text-wrapper-3 {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.example-online .content-entry-2 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 0px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.example-online .text-wrapper-4 {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  width: 260px;
+}
+
+.example-online .content-entry-3 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  padding: 5px 10px;
+  position: relative;
+  width: fit-content;
+}
+
+.example-online .text-wrapper-5 {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  width: 204px;
+}
+
+.example-online .text-wrapper-6 {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: 204px;
+}
+
+.example-online .frame-3 {
+  background-color: #ffffff;
+  height: 3323px;
+  left: 420px;
+  position: absolute;
+  top: 70px;
+  width: 1260px;
+}
+
+.example-online .overlap {
+  height: 445px;
+  left: 80px;
+  position: absolute;
+  top: 308px;
+  width: 750px;
+}
+
+.example-online .group {
+  height: 445px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 750px;
+}
+
+.example-online .overlap-group {
+  height: 445px;
+  position: relative;
+}
+
+.example-online .rectangle-instance {
+  height: 440px !important;
+  top: 5px !important;
+  width: 750px !important;
+}
+
+.example-online .auto-animate {
+  height: 445px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 750px;
+}
+
+.example-online .polygon {
+  height: 127px;
+  left: 311px;
+  position: absolute;
+  top: 161px;
+  width: 127px;
+}
+
+.example-online .h-1 {
+  color: #000000;
+  font-family: "Lora", Helvetica;
+  font-size: 48px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: -0.72px;
+  line-height: 72px;
+  position: absolute;
+  top: 119px;
+  white-space: nowrap;
+  width: 750px;
+}
+
+.example-online .text-wrapper-7 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 80px;
+  letter-spacing: -0.36px;
+  line-height: 36px;
+  position: absolute;
+  top: 261px;
+  white-space: nowrap;
+  width: 686px;
+}
+
+.example-online .group-2 {
+  height: 369px;
+  left: 77px;
+  position: absolute;
+  top: 785px;
+  width: 755px;
+}
+
+.example-online .flex-container-wrapper {
+  border: 1px dashed;
+  border-color: #000000;
+  height: 330px;
+  left: 3px;
+  overflow: hidden;
+  position: absolute;
+  top: 39px;
+  width: 750px;
+}
+
+.example-online .flex-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  height: 329px;
+  left: 20px;
+  position: relative;
+  top: 12px;
+  width: 710px;
+}
+
+.example-online .text {
+  color: transparent;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  position: relative;
+  width: 710px;
+}
+
+.example-online .span {
+  color: #000000;
+}
+
+.example-online .text-wrapper-8 {
+  color: #848484;
+}
+
+.example-online .this-is-an {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 753px;
+}
+
+.example-online .text-wrapper-9 {
+  font-weight: 700;
+}
+
+.example-online .span-2 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+}
+
+.example-online .group-3 {
+  height: 591px;
+  left: 80px;
+  position: absolute;
+  top: 1240px;
+  width: 754px;
+}
+
+.example-online .text-wrapper-10 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 24px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: -0.36px;
+  line-height: 36px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 686px;
+}
+
+.example-online .text-wrapper-11 {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.27px;
+  line-height: 30px;
+  position: absolute;
+  top: 46px;
+  width: 750px;
+}
+
+.example-online .img {
+  height: 445px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 146px;
+  width: 750px;
+}
+
+.example-online .group-4 {
+  height: 591px;
+  left: 80px;
+  position: absolute;
+  top: 1917px;
+  width: 754px;
+}
+
+.example-online .group-5 {
+  height: 729px;
+  left: 80px;
+  position: absolute;
+  top: 2594px;
+  width: 754px;
+}
+
+.example-online .design-component-instance-node {
+  left: -16px !important;
+  width: 194px !important;
+}
+
+.example-online .button-2 {
+  left: 589px !important;
+  position: absolute !important;
+  top: 689px !important;
+  width: 161px !important;
+}
+
+.example-online .footer-a {
+  background-color: #ffffff;
+  height: 489px;
+  left: 0;
+  position: absolute;
+  top: 3393px;
+  width: 1680px;
+}
+
+.example-online .text-wrapper-12 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 671px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 222px;
+}
+
+.example-online .features-live-share {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 671px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  top: 160px;
+  width: 222px;
+}
+
+.example-online .dr-martin-luther {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 80px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  top: 335px;
+  width: 301px;
+}
+
+.example-online .text-wrapper-13 {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 1043px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  text-align: right;
+  top: 335px;
+  white-space: nowrap;
+  width: 300px;
+}
+
+.example-online .text-wrapper-14 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 919px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 221px;
+}
+
+.example-online .tutorials-adobe-blog {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 919px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  top: 160px;
+  width: 221px;
+}
+
+.example-online .text-wrapper-15 {
+  color: #000000;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 700;
+  left: 1163px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  top: 120px;
+  white-space: nowrap;
+  width: 222px;
+}
+
+.example-online .about-us-contact-us {
+  color: #000000cc;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  left: 1163px;
+  letter-spacing: -0.23px;
+  line-height: 24px;
+  position: absolute;
+  top: 160px;
+  width: 222px;
+}
+
+.example-online .web-logo-2 {
+  height: 24px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 200px;
+}
+
+.example-online .button-3 {
+  left: 1407px !important;
+  position: absolute !important;
+  top: 120px !important;
+}
+
+.example-online .rectangle-3 {
+  background-color: #00000080;
+  height: 1px;
+  left: 80px;
+  position: absolute;
+  top: 292px;
+  width: 1520px;
+}
+
+.example-online .ellipse {
+  height: 44px !important;
+  left: 1556px !important;
+  position: absolute !important;
+  top: 325px !important;
+  width: 44px !important;
+}
+
+.example-online .ellipse-1 {
+  height: 44px !important;
+  left: 1492px !important;
+  position: absolute !important;
+  top: 325px !important;
+  width: 44px !important;
+}
+
+.example-online .ellipse-1-instance {
+  height: 44px !important;
+  left: 1428px !important;
+  position: absolute !important;
+  top: 325px !important;
+  width: 44px !important;
+}
+
+.example-online .ellipse-instance {
+  height: 44px !important;
+  left: 1363px !important;
+  position: absolute !important;
+  top: 325px !important;
+  width: 44px !important;
+}
+
+.example-online .SJSU-kinglib-logo {
+  height: 33px;
+  left: 80px;
+  object-fit: cover;
+  position: absolute;
+  top: 162px;
+  width: 200px;
+}

@@ -1,0 +1,22 @@
+.button {
+  background-color: #0055a2;
+  border-radius: 6px;
+  height: 40px;
+  position: relative;
+  width: 195px;
+}
+
+.button .register-for {
+  color: #ffffff;
+  font-family: "Open Sans", Helvetica;
+  font-size: 15px;
+  font-weight: 400;
+  height: 20px;
+  left: -20px;
+  letter-spacing: -0.23px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  width: 236px;
+}
